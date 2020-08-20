@@ -1,8 +1,3 @@
- //<>//
-// Diego Valdez, Patrick Seminatore, Thomas McDonald
-// CPSC 313
-
-// # TODO -- $$$Read in data$$$$, $$$$create color scale$$$$$$$$, $$$$color state by beer per year$$$$, make keys switch year, $$$make label$$$$
 
 import java.util.*;
 import de.fhpotsdam.unfolding.*;
